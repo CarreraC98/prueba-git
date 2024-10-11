@@ -31,6 +31,6 @@ public class hellogit {
         char miChat = 'a'; // Se usa para almacenar caracteres (unicode) con comillas simples
         boolean miBoolean = true; // Se usa para almacenar valores de verdad (true / false)
 
-        System.out.println("¡Hola, Java ");
+        System.out.println("Ahora estoy modificando el archivo");
     }
 }
